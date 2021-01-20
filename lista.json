@@ -1,6 +1,6 @@
 [
   {
-    "indeks":1,
+    "indeks":"1",
     "tytul":"Potop",
     "autor":"Henryk Sienkiewicz",
     "rok":"1886",
@@ -13,7 +13,7 @@
     "zdjecie":""
   },
   {
-    "indeks":2,
+    "indeks":"2",
     "tytul":"Podstawy chemii nieorganicznej",
     "autor":"Adam Bielański",
     "rok":"2010",
@@ -26,7 +26,7 @@
     "zdjecie":""
   },
   {
-    "indeks":3,
+    "indeks":"3",
     "tytul":"Królestwo",
     "autor":"Jo Nesbo",
     "rok":"2020",
@@ -39,7 +39,7 @@
     "zdjecie":""
   },
   {
-    "indeks":4,
+    "indeks":"4",
     "tytul":"Osiedle RZNiW",
     "autor":"Remigiusz Mróz",
     "rok":"2020",
@@ -52,7 +52,7 @@
     "zdjecie":""
   },
   {
-    "indeks":5,
+    "indeks":"5",
     "tytul":"Argonauci",
     "autor":"Maggie Nelson",
     "rok":"2020",
@@ -65,7 +65,7 @@
     "zdjecie":""
   },
   {
-    "indeks":6,
+    "indeks":"6",
     "tytul":"Pan Tadeusz",
     "autor":"Adam Mickiewicz",
     "rok":"1834",
@@ -78,7 +78,7 @@
     "zdjecie":""
   },
   {
-    "indeks":7,
+    "indeks":"7",
     "tytul":"O pułapkach poznania",
     "autor":"Robert Piłat",
     "rok":"2020",
@@ -91,7 +91,7 @@
     "zdjecie":""
   },
   {
-    "indeks":8,
+    "indeks":"8",
     "tytul":"Testowanie oprogramowania w praktyce",
     "autor":"Adam Roman, Karolina Zmitrowicz",
     "rok":"2017",
@@ -104,7 +104,7 @@
     "zdjecie":""
   },
   {
-    "indeks":9,
+    "indeks":"9",
     "tytul":"Wielki słownik ortograficzny PWN z zasadami pisowni i interpunkcji",
     "autor":"Edward Polański",
     "rok":"2016",
@@ -117,7 +117,7 @@
     "zdjecie":""
   },
   {
-    "indeks":10,
+    "indeks":"10",
     "tytul":"Żywienie w sporcie",
     "autor":"Maggie Nelson",
     "rok":"2008",
