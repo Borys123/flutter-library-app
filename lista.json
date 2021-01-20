@@ -1,1 +1,14 @@
-[{"title":"Potop","text":"ABCDEFG"}]
+[
+  {
+    "tytul":"Potop",
+    "autor":"Henryk Sienkiewicz",
+    "rok":"1886",
+    "gatunek":"Powieść historyczna",
+    "jezyk":"polski",
+    "stron":"936",
+    "wydawnictwo":"Greg",
+    "oprawa":"twarda",
+    "wydanie":"Kraków, 2020",
+    "zdjecie":""
+  }
+]
