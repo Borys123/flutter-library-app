@@ -10,7 +10,7 @@
     "wydawnictwo":"Greg",
     "oprawa":"twarda",
     "wydanie":"Kraków, 2020",
-    "zdjecie":"https://googleflutter.com/sample_image.jpg"
+    "zdjecie":"https://ecsmedia.pl/c/potop-w-iext38864542.jpg"
   },
   {
     "indeks":"2",
@@ -23,7 +23,7 @@
     "wydawnictwo":"Wydawnictwo Naukowe PWN",
     "oprawa":"miękka",
     "wydanie":"Warszawa, 2012",
-    "zdjecie":""
+    "zdjecie":"https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/d576082e/std/2bc-452/776903685o.jpg"
   },
   {
     "indeks":"3",
@@ -36,7 +36,7 @@
     "wydawnictwo":"Dolnośląskie",
     "oprawa":"miękka",
     "wydanie":"2020",
-    "zdjecie":""
+    "zdjecie":"https://www.taniaksiazka.pl/images/popups/8DF/9788327160089.jpg"
   },
   {
     "indeks":"4",
@@ -49,7 +49,7 @@
     "wydawnictwo":"Czwarta Strona",
     "oprawa":"miękka",
     "wydanie":"2020",
-    "zdjecie":""
+    "zdjecie":"https://cdn-lubimyczytac.pl/upload/books/4932000/4932748/828173-352x500.jpg"
   },
   {
     "indeks":"5",
@@ -62,7 +62,7 @@
     "wydawnictwo":"Czarne",
     "oprawa":"twarda",
     "wydanie":"Sękowa, 2020",
-    "zdjecie":""
+    "zdjecie":"https://cdn-lubimyczytac.pl/upload/books/4919000/4919642/810753-352x500.jpg"
   },
   {
     "indeks":"6",
@@ -75,7 +75,7 @@
     "wydawnictwo":"Greg",
     "oprawa":"miękka",
     "wydanie":"Kraków, 2020",
-    "zdjecie":""
+    "zdjecie":"https://www.greg.pl/imgs/covers/380/Pan-Tadeusz_lkpt.jpg"
   },
   {
     "indeks":"7",
@@ -88,7 +88,7 @@
     "wydawnictwo":"Wydawnictwo Naukowe PWN",
     "oprawa":"miękka",
     "wydanie":"2020",
-    "zdjecie":""
+    "zdjecie":"https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/d576082e/std/2bc-452/868716842o.jpg"
   },
   {
     "indeks":"8",
@@ -101,7 +101,7 @@
     "wydawnictwo":"Wydawnictwo Naukowe PWN",
     "oprawa":"miękka",
     "wydanie":"Warszawa, 2020",
-    "zdjecie":""
+    "zdjecie":"https://static01.helion.com.pl/global/okladki/326x466/e_0wc1.jpg"
   },
   {
     "indeks":"9",
@@ -114,12 +114,12 @@
     "wydawnictwo":"Wydawnictwo Naukowe PWN",
     "oprawa":"twarda",
     "wydanie":"4, 2020",
-    "zdjecie":""
+    "zdjecie":"https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/d576082e/std/2bc-452/381845521o.jpg"
   },
   {
     "indeks":"10",
     "tytul":"Żywienie w sporcie",
-    "autor":"Maggie Nelson",
+    "autor":"Anita Bean",
     "rok":"2008",
     "gatunek":"Poradniki",
     "jezyk":"polski",
@@ -127,6 +127,6 @@
     "wydawnictwo":"PZWL Wydawnictwo Lekarskie",
     "oprawa":"miękka",
     "wydanie":"Warszawa, 2017",
-    "zdjecie":""
+    "zdjecie":"https://ecsmedia.pl/c/zywienie-w-sporcie-kompletny-przewodnik-b-iext65467004.jpg"
   }
 ]
